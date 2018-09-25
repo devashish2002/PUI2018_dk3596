@@ -42,7 +42,7 @@ def show_locations(key, bus_no):
     #print 'Bus line : B52'
     print 'Number of Active Buses :', lines
     for i in range(len(data2)):
-        print 'Bus ', i+1 ,'is at latitude ' , Latitude[i] , 'and ', Longitude[i]
+        print 'Bus ', i+1 ,'is at latitude ' , Latitude[i] , 'and Longitude', Longitude[i]
         if i == lines:
             break
 
