@@ -1,8 +1,8 @@
 # Homework 4
-(Done jointly with Manu Pathak (mp4515))
+(Done jointly with Manu Pathak (mp4515). Manu did the first assignment. I did the second and third assignments.)
 
 ## Assignment 1
-Generated 100 samples each of the distributions: Gaussian, Binomial, Poisson, , 
+Generated 100 samples each of the distributions: Gaussian, Binomial, Poisson, LogNormal and Chi-squared. 
 
 ## Assignment 2
 Downloaded the CitiBike data and cleaned it up for testing our hypothesis.
