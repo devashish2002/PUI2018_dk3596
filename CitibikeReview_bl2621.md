@@ -17,7 +17,7 @@ But I don't think it is necessary to make the two sample sizes equal to each oth
 n1 and n2 are both considered in the t test formula. 
 
 
-### Two-sample t test for difference of means is the most appropriate test here. 
+### Two-sample t test （2 groups unpaired t test ）for difference of means is the most appropriate test here. 
 
 
 To make this question more interesting, we could test if men under the age of 25 tend to ride longer than women under the age of 25. Or men who are older than 25 ride longer than women older than 25. 
