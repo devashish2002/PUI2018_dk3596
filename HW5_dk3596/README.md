@@ -1,3 +1,9 @@
+# Homework 5
+
+# Assignment 1
+
+Analysed hw4 of vvt221, Vaidehi Vidhyadhar Thete (https://github.com/vvt221) and suggested a test for testing her hypothesis.
+
 # Assignment 2: Statistical tests
 
 ## Test 1 (t-test): Checking whether the change of grades(slope) in highways affects the speeds of vehicles on them.
@@ -10,7 +16,7 @@
 ![test1](https://user-images.githubusercontent.com/24549241/46586820-d0db6100-ca51-11e8-84ef-661127b3321a.PNG)
 
 
-## Test 2 (Multiple regression): Analyzing factors for cough in the elderly
+## Test 2 (Multiple regression): Analyzing factors for cough in the elderly.
 
 | Statistical Analysis | IV(s) | IV type(s) | DV(s) | DV type(s) | Control Var | Control Var type | Question to be answered | H0 | alpha | Link to Paper |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -18,4 +24,10 @@
 
 <img width="1438" alt="screen shot 2018-10-07 at 5 13 02 pm" src="https://user-images.githubusercontent.com/24549241/46587005-5233f300-ca54-11e8-84a9-21447d9f992d.png">
 
-## Test 3 (Logistic Regression): 
+## Test 3 (Logistic Regression): Prediction of fall among the older people and analyzing the significant factors associated with it.
+
+| Statistical Analysis | IV(s) | IV type(s) | DV(s) | DV type(s) | Control Var | Control Var type | Question to be answered | H0 | alpha | Link to Paper |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Logistic Regression | , Age, Gender, Stroke history, Mental health, Ashthma, Depression, Drug intake, Osteoporosis, Recent healthcare utilisation | Continuous and Categorical | Odds of falling | Continuous | 0 | None | What factors are associated with the falling of older people? | Falling is independent of age, diseases, drug intake and previous healthcare utilization | 0.05 | https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159365#sec006
+
+![test3](https://user-images.githubusercontent.com/24549241/46587208-b061d580-ca56-11e8-9969-844316f6ceec.PNG)
