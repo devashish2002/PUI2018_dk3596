@@ -9,6 +9,7 @@ It can be seen that the median rent has a slighly increasing rate from 2015 to 2
 
 # Assignment 2
 
-Tested the hypothesis for the CitiBike project
+Tested the hypothesis for the CitiBike project using the 'Welch's t-test'.
+The detailed report of the test:
 
 https://www.authorea.com/335926/V06v0kr0t-0L1q_Eq16ENw
